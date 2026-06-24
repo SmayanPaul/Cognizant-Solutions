@@ -1,0 +1,4 @@
+18:40:37.802 [com.slf4j.logging.AppenderExample.main()] DEBUG com.slf4j.logging.AppenderExample - Debug message for console and file appenders
+18:40:37.803 [com.slf4j.logging.AppenderExample.main()] INFO  com.slf4j.logging.AppenderExample - Info message for console and file appenders
+18:57:14.745 [com.slf4j.logging.AppenderExample.main()] DEBUG com.slf4j.logging.AppenderExample - Debug message for console and file appenders
+18:57:14.746 [com.slf4j.logging.AppenderExample.main()] INFO  com.slf4j.logging.AppenderExample - Info message for console and file appenders
